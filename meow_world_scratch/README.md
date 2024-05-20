@@ -2,5 +2,5 @@
 A hello world programme
 
 ## files
-+ scratch: [meow_world_scratch.sb3](meow_world_scratch.sb3)
++ Scratch: [meow_world_scratch.sb3](meow_world_scratch.sb3)
 + YouTube: https://www.youtube.com/watch?v=2n0OvWdBu74
